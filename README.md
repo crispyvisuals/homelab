@@ -84,6 +84,9 @@ Week 2 (February 16, 2026)
   
 Week 3 (February 23, 2026)
   - <img src="https://github.com/user-attachments/assets/cdc84fac-a4f2-4d64-897a-617684f51781" width="300" height="300" />
+  - <img src="https://github.com/user-attachments/assets/dca917a4-57e2-4575-91cc-37bc31fdc090" width="300" height="300" />
+  - <img src="https://github.com/user-attachments/assets/9769b069-3a25-4af2-bda9-8471900709f0" width="300" height="300" />
+  
   
 Week 4 (March 2, 2026)
 - 
