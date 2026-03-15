@@ -82,10 +82,11 @@ Week 5 (March 9, 2026)
   - I downloaded Glances to be able to get a live track of my server on my LCD monitor
   - I relized that my monitor wont be able to fit in the mount i made for it so I just put it against something.
   - The HDMI to display port is holding it up since it is a tight space.
+  - The connectors didn't print again, but I'm just superglued them on top of the connectors at this point.\
   - Today is Friday, and I am officially done with this project.
-  - The connectors didn't print again, but I'm just superglued them on top of the connectors at this point.
-
-# The End of an Adventure!
+    
+Week 6 (March 16, 2026)
+  - 1 
 
 # Progression Photos
 Week 1 (February 9, 2026)
