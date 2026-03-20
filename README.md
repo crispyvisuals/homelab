@@ -83,7 +83,8 @@ Week 5 (March 9, 2026)
   - I relized that my monitor wont be able to fit in the mount i made for it so I just put it against something.
   - The HDMI to display port is holding it up since it is a tight space.
   - The connectors didn't print again, but I'm just superglued them on top of the connectors at this point.\
-  - Today is Friday, and I am officially done with this project.
+  - Today is Friday, and I am officially done building this project.
+  - Time to do some projects now!!
     
 Week 6 (March 16, 2026)
   - 1 
@@ -100,9 +101,7 @@ Week 3 (February 23, 2026)
   - <img src="https://github.com/user-attachments/assets/dca917a4-57e2-4575-91cc-37bc31fdc090" width="300" height="300" />
   - <img src="https://github.com/user-attachments/assets/9769b069-3a25-4af2-bda9-8471900709f0" width="300" height="300" />
   
-  
-Week 4 (March 2, 2026)
-  - <img src="" width="300" height="300" />
 Week 5 (March 9, 2026)
-  - 
+  - <img src="https://github.com/user-attachments/assets/f8f1f3f5-dc6a-4965-a794-b5da36797ea8" width="300" height="300" />
+
   
